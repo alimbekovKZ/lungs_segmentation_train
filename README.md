@@ -110,3 +110,12 @@ image, mask = inference('test/1.jpeg', 0.2)
 #### resnet50
 
 ![https://habrastorage.org/webt/eb/os/gk/ebosgkdotkrt7emke0btwyonp-e.png](https://habrastorage.org/webt/eb/os/gk/ebosgkdotkrt7emke0btwyonp-e.png)
+
+
+### Authors
+
+![Renat Alimbekov](https://alimbekov.com)
+
+![Ivan Vassilenko](https://www.linkedin.com/in/ivannvassilenko/)
+
+![Abylaikhan Turlassov](https://www.linkedin.com/in/abylaikhan-turlassov-2727b2196/)
