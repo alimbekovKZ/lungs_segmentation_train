@@ -1,0 +1,366 @@
+
+01/14/2021 23:57:57	0 epoch: 	 start training....
+
+01/14/2021 23:59:12	0 epoch: 	 Calculated train loss: 0.99316
+
+01/14/2021 23:59:12	0 epoch: 	 start validation....
+
+01/14/2021 23:59:17	0 epoch: 	 start searching thresholds....
+
+01/14/2021 23:59:18	0 epoch: 	 Best score threshold: 0.5
+
+01/14/2021 23:59:18	0 epoch: 	 Best area threshold: 500
+
+01/14/2021 23:59:18	0 epoch: 	 Calculated score: 0.74901
+
+01/14/2021 23:59:18	best model: 0 epoch - 0.74901
+
+01/14/2021 23:59:18	1 epoch: 	 start training....
+
+01/15/2021 00:00:35	1 epoch: 	 Calculated train loss: 0.33605
+
+01/15/2021 00:00:35	1 epoch: 	 start validation....
+
+01/15/2021 00:00:41	1 epoch: 	 start searching thresholds....
+
+01/15/2021 00:00:41	1 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 00:00:41	1 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:00:41	1 epoch: 	 Calculated score: 0.9152
+
+01/15/2021 00:00:42	best model: 1 epoch - 0.9152
+
+01/15/2021 00:00:42	2 epoch: 	 start training....
+
+01/15/2021 00:01:57	2 epoch: 	 Calculated train loss: 0.16072
+
+01/15/2021 00:01:57	2 epoch: 	 start validation....
+
+01/15/2021 00:02:02	2 epoch: 	 start searching thresholds....
+
+01/15/2021 00:02:03	2 epoch: 	 Best score threshold: 0.3
+
+01/15/2021 00:02:03	2 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:02:03	2 epoch: 	 Calculated score: 0.94037
+
+01/15/2021 00:02:03	best model: 2 epoch - 0.94037
+
+01/15/2021 00:02:03	3 epoch: 	 start training....
+
+01/15/2021 00:03:20	3 epoch: 	 Calculated train loss: 0.13115
+
+01/15/2021 00:03:20	3 epoch: 	 start validation....
+
+01/15/2021 00:03:25	3 epoch: 	 start searching thresholds....
+
+01/15/2021 00:03:26	3 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 00:03:26	3 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:03:26	3 epoch: 	 Calculated score: 0.94201
+
+01/15/2021 00:03:26	best model: 3 epoch - 0.94201
+
+01/15/2021 00:03:26	4 epoch: 	 start training....
+
+01/15/2021 00:04:38	4 epoch: 	 Calculated train loss: 0.11245
+
+01/15/2021 00:04:38	4 epoch: 	 start validation....
+
+01/15/2021 00:04:43	4 epoch: 	 start searching thresholds....
+
+01/15/2021 00:04:44	4 epoch: 	 Best score threshold: 0.3
+
+01/15/2021 00:04:44	4 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:04:44	4 epoch: 	 Calculated score: 0.955
+
+01/15/2021 00:04:45	best model: 4 epoch - 0.955
+
+01/15/2021 00:04:45	5 epoch: 	 start training....
+
+01/15/2021 00:05:56	5 epoch: 	 Calculated train loss: 0.10122
+
+01/15/2021 00:05:56	5 epoch: 	 start validation....
+
+01/15/2021 00:06:01	5 epoch: 	 start searching thresholds....
+
+01/15/2021 00:06:02	5 epoch: 	 Best score threshold: 0.3
+
+01/15/2021 00:06:02	5 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:06:02	5 epoch: 	 Calculated score: 0.95494
+
+01/15/2021 00:06:02	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch0.pth
+
+01/15/2021 00:06:02	6 epoch: 	 start training....
+
+01/15/2021 00:07:18	6 epoch: 	 Calculated train loss: 0.095871
+
+01/15/2021 00:07:18	6 epoch: 	 start validation....
+
+01/15/2021 00:07:23	6 epoch: 	 start searching thresholds....
+
+01/15/2021 00:07:24	6 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 00:07:24	6 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:07:24	6 epoch: 	 Calculated score: 0.95672
+
+01/15/2021 00:07:24	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch1.pth
+
+01/15/2021 00:07:25	best model: 6 epoch - 0.95672
+
+01/15/2021 00:07:25	7 epoch: 	 start training....
+
+01/15/2021 00:08:38	7 epoch: 	 Calculated train loss: 0.096603
+
+01/15/2021 00:08:38	7 epoch: 	 start validation....
+
+01/15/2021 00:08:43	7 epoch: 	 start searching thresholds....
+
+01/15/2021 00:08:44	7 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 00:08:44	7 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:08:44	7 epoch: 	 Calculated score: 0.95535
+
+01/15/2021 00:08:44	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch2.pth
+
+01/15/2021 00:08:44	8 epoch: 	 start training....
+
+01/15/2021 00:09:58	8 epoch: 	 Calculated train loss: 0.095266
+
+01/15/2021 00:09:58	8 epoch: 	 start validation....
+
+01/15/2021 00:10:04	8 epoch: 	 start searching thresholds....
+
+01/15/2021 00:10:04	8 epoch: 	 Best score threshold: 0.3
+
+01/15/2021 00:10:04	8 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:10:04	8 epoch: 	 Calculated score: 0.95502
+
+01/15/2021 00:10:04	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch3.pth
+
+01/15/2021 00:10:04	9 epoch: 	 start training....
+
+01/15/2021 00:11:19	9 epoch: 	 Calculated train loss: 0.092915
+
+01/15/2021 00:11:19	9 epoch: 	 start validation....
+
+01/15/2021 00:11:24	9 epoch: 	 start searching thresholds....
+
+01/15/2021 00:11:25	9 epoch: 	 Best score threshold: 0.3
+
+01/15/2021 00:11:25	9 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:11:25	9 epoch: 	 Calculated score: 0.95837
+
+01/15/2021 00:11:25	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch5.pth
+
+01/15/2021 00:11:25	best model: 9 epoch - 0.95837
+
+01/15/2021 00:11:25	10 epoch: 	 start training....
+
+01/15/2021 00:12:37	10 epoch: 	 Calculated train loss: 0.086421
+
+01/15/2021 00:12:37	10 epoch: 	 start validation....
+
+01/15/2021 00:12:43	10 epoch: 	 start searching thresholds....
+
+01/15/2021 00:12:43	10 epoch: 	 Best score threshold: 0.4
+
+01/15/2021 00:12:43	10 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:12:43	10 epoch: 	 Calculated score: 0.96047
+
+01/15/2021 00:12:44	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch4.pth
+
+01/15/2021 00:12:44	best model: 10 epoch - 0.96047
+
+01/15/2021 00:12:44	11 epoch: 	 start training....
+
+01/15/2021 00:13:57	11 epoch: 	 Calculated train loss: 0.085847
+
+01/15/2021 00:13:57	11 epoch: 	 start validation....
+
+01/15/2021 00:14:02	11 epoch: 	 start searching thresholds....
+
+01/15/2021 00:14:03	11 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 00:14:03	11 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:14:03	11 epoch: 	 Calculated score: 0.95955
+
+01/15/2021 00:14:03	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch8.pth
+
+01/15/2021 00:14:03	12 epoch: 	 start training....
+
+01/15/2021 00:15:18	12 epoch: 	 Calculated train loss: 0.081198
+
+01/15/2021 00:15:18	12 epoch: 	 start validation....
+
+01/15/2021 00:15:24	12 epoch: 	 start searching thresholds....
+
+01/15/2021 00:15:25	12 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 00:15:25	12 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:15:25	12 epoch: 	 Calculated score: 0.96068
+
+01/15/2021 00:15:25	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch7.pth
+
+01/15/2021 00:15:25	best model: 12 epoch - 0.96068
+
+01/15/2021 00:15:25	13 epoch: 	 start training....
+
+01/15/2021 00:16:39	13 epoch: 	 Calculated train loss: 0.077406
+
+01/15/2021 00:16:39	13 epoch: 	 start validation....
+
+01/15/2021 00:16:44	13 epoch: 	 start searching thresholds....
+
+01/15/2021 00:16:45	13 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 00:16:45	13 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:16:45	13 epoch: 	 Calculated score: 0.96154
+
+01/15/2021 00:16:45	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch6.pth
+
+01/15/2021 00:16:45	best model: 13 epoch - 0.96154
+
+01/15/2021 00:16:45	14 epoch: 	 start training....
+
+01/15/2021 00:17:58	14 epoch: 	 Calculated train loss: 0.075271
+
+01/15/2021 00:17:58	14 epoch: 	 start validation....
+
+01/15/2021 00:18:04	14 epoch: 	 start searching thresholds....
+
+01/15/2021 00:18:05	14 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 00:18:05	14 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:18:05	14 epoch: 	 Calculated score: 0.96236
+
+01/15/2021 00:18:05	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch9.pth
+
+01/15/2021 00:18:05	best model: 14 epoch - 0.96236
+
+01/15/2021 00:18:05	15 epoch: 	 start training....
+
+01/15/2021 00:19:19	15 epoch: 	 Calculated train loss: 0.092829
+
+01/15/2021 00:19:19	15 epoch: 	 start validation....
+
+01/15/2021 00:19:24	15 epoch: 	 start searching thresholds....
+
+01/15/2021 00:19:25	15 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 00:19:25	15 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:19:25	15 epoch: 	 Calculated score: 0.95806
+
+01/15/2021 00:19:25	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch15.pth
+
+01/15/2021 00:19:25	16 epoch: 	 start training....
+
+01/15/2021 00:20:36	16 epoch: 	 Calculated train loss: 0.083097
+
+01/15/2021 00:20:36	16 epoch: 	 start validation....
+
+01/15/2021 00:20:41	16 epoch: 	 start searching thresholds....
+
+01/15/2021 00:20:42	16 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 00:20:42	16 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:20:42	16 epoch: 	 Calculated score: 0.95414
+
+01/15/2021 00:20:42	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch16.pth
+
+01/15/2021 00:20:42	17 epoch: 	 start training....
+
+01/15/2021 00:21:55	17 epoch: 	 Calculated train loss: 0.084499
+
+01/15/2021 00:21:55	17 epoch: 	 start validation....
+
+01/15/2021 00:22:01	17 epoch: 	 start searching thresholds....
+
+01/15/2021 00:22:02	17 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 00:22:02	17 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:22:02	17 epoch: 	 Calculated score: 0.95883
+
+01/15/2021 00:22:02	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch17.pth
+
+01/15/2021 00:22:02	18 epoch: 	 start training....
+
+01/15/2021 00:23:19	18 epoch: 	 Calculated train loss: 0.077932
+
+01/15/2021 00:23:19	18 epoch: 	 start validation....
+
+01/15/2021 00:23:24	18 epoch: 	 start searching thresholds....
+
+01/15/2021 00:23:25	18 epoch: 	 Best score threshold: 0.4
+
+01/15/2021 00:23:25	18 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:23:25	18 epoch: 	 Calculated score: 0.96006
+
+01/15/2021 00:23:25	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch11.pth
+
+01/15/2021 00:23:25	19 epoch: 	 start training....
+
+01/15/2021 00:24:40	19 epoch: 	 Calculated train loss: 0.07521
+
+01/15/2021 00:24:40	19 epoch: 	 start validation....
+
+01/15/2021 00:24:46	19 epoch: 	 start searching thresholds....
+
+01/15/2021 00:24:46	19 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 00:24:46	19 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:24:46	19 epoch: 	 Calculated score: 0.95942
+
+01/15/2021 00:24:47	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch19.pth
+
+01/15/2021 00:24:47	20 epoch: 	 start training....
+
+01/15/2021 00:26:02	20 epoch: 	 Calculated train loss: 0.07584
+
+01/15/2021 00:26:02	20 epoch: 	 start validation....
+
+01/15/2021 00:26:08	20 epoch: 	 start searching thresholds....
+
+01/15/2021 00:26:09	20 epoch: 	 Best score threshold: 0.4
+
+01/15/2021 00:26:09	20 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:26:09	20 epoch: 	 Calculated score: 0.96159
+
+01/15/2021 00:26:09	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch18.pth
+
+01/15/2021 00:26:09	21 epoch: 	 start training....
+
+01/15/2021 00:27:26	21 epoch: 	 Calculated train loss: 0.07069
+
+01/15/2021 00:27:26	21 epoch: 	 start validation....
+
+01/15/2021 00:27:32	21 epoch: 	 start searching thresholds....
+
+01/15/2021 00:27:33	21 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 00:27:33	21 epoch: 	 Best area threshold: 500
+
+01/15/2021 00:27:33	21 epoch: 	 Calculated score: 0.96136
+
+01/15/2021 00:27:33	Removed checkpoint is experiments/resnet18/model_checkpoints/resnet18_epoch10.pth
+
+01/15/2021 00:27:33	EARLY STOPPING

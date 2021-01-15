@@ -1,0 +1,9 @@
+albumentations==0.5.2
+joblib==0.13.2
+matplotlib==3.3.3
+numpy==1.17.4
+opencv_python==4.2.0.34
+pandas==0.25.3
+torch
+torchvision==0.8.2
+tqdm==4.40.2

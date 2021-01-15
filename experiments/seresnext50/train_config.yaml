@@ -1,0 +1,63 @@
+PIPELINE_NAME: seresnext50
+PRETRAINED_PIPELINE_NAME: seresnext50
+DATA_DIRECTORY: '../Lung Segmentation/CXR_png'
+MASK_DIRECTORY: 'dataset/'
+LOGGER_DIR: 'log'
+TRAIN_INDEX: 630
+
+SEED: 42
+DEVICE: cuda
+DEVICE_LIST: [0]
+WORKERS: 8
+
+MODEL:
+#   PRETRAINED:
+#     PIPELINE_PATH: experiments/Checkpoints_87
+#     CHECKPOINTS_FOLDER: checkpoints
+#     PIPELINE_NAME: densenet169
+  FREEZE: False
+  PY: models.selim_zoo.unet
+  CLASS: SCSEUnet
+  ARGS:
+      seg_classes: 2
+      backbone_arch: seresnext50
+     # pretrained: imagenet
+
+IMAGE_SIZE: 512
+
+CRITERION:
+    PY: losses
+    CLASS: ComboLoss
+    ARGS:
+        weights:
+            dice: 1
+            focal: 1
+
+OPTIMIZER:
+  CLASS: Adam
+  ARGS:
+    lr: 0.0001
+    weight_decay: 0.000005
+
+SCHEDULER:
+  CLASS: CosineAnnealingWarmRestarts
+  ARGS:
+    T_0: 1
+    T_mult: 2
+
+BATCH_SIZE: 2
+GRADIENT_ACCUMULATION_STEPS: 4
+GRADIENT_CLIPPING: 0.1
+EPOCHES: 30
+EARLY_STOPPING: 6
+
+CHECKPOINTS:
+    FULL_FOLDER: model_checkpoints
+    BEST_FOLDER: model_checkpoints
+    TOPK: 5
+
+EVALUATION:
+    SCORE_THRESHOLD: 0.3
+    AREA_THRESHOLD: 1000
+    THRESHOLD_SEARCH_LIST: [0.15, 0.2, 0.3, 0.4, 0.5]
+    AREA_SEARCH_LIST: [500, 1000, 1500]

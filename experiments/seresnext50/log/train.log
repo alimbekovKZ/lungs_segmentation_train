@@ -1,0 +1,224 @@
+
+01/15/2021 17:10:04	0 epoch: 	 start training....
+
+01/15/2021 17:13:30	0 epoch: 	 Calculated train loss: 0.27564
+
+01/15/2021 17:13:30	0 epoch: 	 start validation....
+
+01/15/2021 17:13:35	0 epoch: 	 start searching thresholds....
+
+01/15/2021 17:13:36	0 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 17:13:36	0 epoch: 	 Best area threshold: 500
+
+01/15/2021 17:13:36	0 epoch: 	 Calculated score: 0.96013
+
+01/15/2021 17:13:36	best model: 0 epoch - 0.96013
+
+01/15/2021 17:13:36	1 epoch: 	 start training....
+
+01/15/2021 17:17:03	1 epoch: 	 Calculated train loss: 0.095369
+
+01/15/2021 17:17:03	1 epoch: 	 start validation....
+
+01/15/2021 17:17:09	1 epoch: 	 start searching thresholds....
+
+01/15/2021 17:17:10	1 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 17:17:10	1 epoch: 	 Best area threshold: 500
+
+01/15/2021 17:17:10	1 epoch: 	 Calculated score: 0.96368
+
+01/15/2021 17:17:11	best model: 1 epoch - 0.96368
+
+01/15/2021 17:17:11	2 epoch: 	 start training....
+
+01/15/2021 17:20:38	2 epoch: 	 Calculated train loss: 0.082012
+
+01/15/2021 17:20:38	2 epoch: 	 start validation....
+
+01/15/2021 17:20:43	2 epoch: 	 start searching thresholds....
+
+01/15/2021 17:20:44	2 epoch: 	 Best score threshold: 0.3
+
+01/15/2021 17:20:44	2 epoch: 	 Best area threshold: 500
+
+01/15/2021 17:20:44	2 epoch: 	 Calculated score: 0.96598
+
+01/15/2021 17:20:45	best model: 2 epoch - 0.96598
+
+01/15/2021 17:20:45	3 epoch: 	 start training....
+
+01/15/2021 17:24:11	3 epoch: 	 Calculated train loss: 0.082735
+
+01/15/2021 17:24:11	3 epoch: 	 start validation....
+
+01/15/2021 17:24:17	3 epoch: 	 start searching thresholds....
+
+01/15/2021 17:24:17	3 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 17:24:17	3 epoch: 	 Best area threshold: 500
+
+01/15/2021 17:24:17	3 epoch: 	 Calculated score: 0.9642
+
+01/15/2021 17:24:17	4 epoch: 	 start training....
+
+01/15/2021 17:27:42	4 epoch: 	 Calculated train loss: 0.077312
+
+01/15/2021 17:27:42	4 epoch: 	 start validation....
+
+01/15/2021 17:27:47	4 epoch: 	 start searching thresholds....
+
+01/15/2021 17:27:48	4 epoch: 	 Best score threshold: 0.4
+
+01/15/2021 17:27:48	4 epoch: 	 Best area threshold: 500
+
+01/15/2021 17:27:48	4 epoch: 	 Calculated score: 0.9649
+
+01/15/2021 17:27:48	5 epoch: 	 start training....
+
+01/15/2021 17:31:17	5 epoch: 	 Calculated train loss: 0.070704
+
+01/15/2021 17:31:17	5 epoch: 	 start validation....
+
+01/15/2021 17:31:22	5 epoch: 	 start searching thresholds....
+
+01/15/2021 17:31:23	5 epoch: 	 Best score threshold: 0.4
+
+01/15/2021 17:31:23	5 epoch: 	 Best area threshold: 500
+
+01/15/2021 17:31:23	5 epoch: 	 Calculated score: 0.9657
+
+01/15/2021 17:31:23	Removed checkpoint is experiments/seresnext50/model_checkpoints/seresnext50_epoch0.pth
+
+01/15/2021 17:31:23	6 epoch: 	 start training....
+
+01/15/2021 17:34:52	6 epoch: 	 Calculated train loss: 0.063656
+
+01/15/2021 17:34:52	6 epoch: 	 start validation....
+
+01/15/2021 17:34:57	6 epoch: 	 start searching thresholds....
+
+01/15/2021 17:34:58	6 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 17:34:58	6 epoch: 	 Best area threshold: 500
+
+01/15/2021 17:34:58	6 epoch: 	 Calculated score: 0.96696
+
+01/15/2021 17:34:58	Removed checkpoint is experiments/seresnext50/model_checkpoints/seresnext50_epoch1.pth
+
+01/15/2021 17:34:59	best model: 6 epoch - 0.96696
+
+01/15/2021 17:34:59	7 epoch: 	 start training....
+
+01/15/2021 17:38:24	7 epoch: 	 Calculated train loss: 0.066833
+
+01/15/2021 17:38:24	7 epoch: 	 start validation....
+
+01/15/2021 17:38:30	7 epoch: 	 start searching thresholds....
+
+01/15/2021 17:38:30	7 epoch: 	 Best score threshold: 0.3
+
+01/15/2021 17:38:30	7 epoch: 	 Best area threshold: 500
+
+01/15/2021 17:38:30	7 epoch: 	 Calculated score: 0.96542
+
+01/15/2021 17:38:31	Removed checkpoint is experiments/seresnext50/model_checkpoints/seresnext50_epoch3.pth
+
+01/15/2021 17:38:31	8 epoch: 	 start training....
+
+01/15/2021 17:41:57	8 epoch: 	 Calculated train loss: 0.06869
+
+01/15/2021 17:41:57	8 epoch: 	 start validation....
+
+01/15/2021 17:42:02	8 epoch: 	 start searching thresholds....
+
+01/15/2021 17:42:03	8 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 17:42:03	8 epoch: 	 Best area threshold: 500
+
+01/15/2021 17:42:03	8 epoch: 	 Calculated score: 0.96436
+
+01/15/2021 17:42:03	Removed checkpoint is experiments/seresnext50/model_checkpoints/seresnext50_epoch8.pth
+
+01/15/2021 17:42:03	9 epoch: 	 start training....
+
+01/15/2021 17:45:33	9 epoch: 	 Calculated train loss: 0.061387
+
+01/15/2021 17:45:33	9 epoch: 	 start validation....
+
+01/15/2021 17:45:38	9 epoch: 	 start searching thresholds....
+
+01/15/2021 17:45:39	9 epoch: 	 Best score threshold: 0.4
+
+01/15/2021 17:45:39	9 epoch: 	 Best area threshold: 500
+
+01/15/2021 17:45:39	9 epoch: 	 Calculated score: 0.96606
+
+01/15/2021 17:45:39	Removed checkpoint is experiments/seresnext50/model_checkpoints/seresnext50_epoch4.pth
+
+01/15/2021 17:45:39	10 epoch: 	 start training....
+
+01/15/2021 17:49:05	10 epoch: 	 Calculated train loss: 0.058112
+
+01/15/2021 17:49:05	10 epoch: 	 start validation....
+
+01/15/2021 17:49:10	10 epoch: 	 start searching thresholds....
+
+01/15/2021 17:49:11	10 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 17:49:11	10 epoch: 	 Best area threshold: 500
+
+01/15/2021 17:49:11	10 epoch: 	 Calculated score: 0.96508
+
+01/15/2021 17:49:11	Removed checkpoint is experiments/seresnext50/model_checkpoints/seresnext50_epoch10.pth
+
+01/15/2021 17:49:11	11 epoch: 	 start training....
+
+01/15/2021 17:52:39	11 epoch: 	 Calculated train loss: 0.054935
+
+01/15/2021 17:52:39	11 epoch: 	 start validation....
+
+01/15/2021 17:52:45	11 epoch: 	 start searching thresholds....
+
+01/15/2021 17:52:46	11 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 17:52:46	11 epoch: 	 Best area threshold: 500
+
+01/15/2021 17:52:46	11 epoch: 	 Calculated score: 0.96598
+
+01/15/2021 17:52:46	Removed checkpoint is experiments/seresnext50/model_checkpoints/seresnext50_epoch7.pth
+
+01/15/2021 17:52:46	12 epoch: 	 start training....
+
+01/15/2021 17:56:14	12 epoch: 	 Calculated train loss: 0.050373
+
+01/15/2021 17:56:14	12 epoch: 	 start validation....
+
+01/15/2021 17:56:20	12 epoch: 	 start searching thresholds....
+
+01/15/2021 17:56:20	12 epoch: 	 Best score threshold: 0.4
+
+01/15/2021 17:56:20	12 epoch: 	 Best area threshold: 500
+
+01/15/2021 17:56:20	12 epoch: 	 Calculated score: 0.9658
+
+01/15/2021 17:56:21	Removed checkpoint is experiments/seresnext50/model_checkpoints/seresnext50_epoch5.pth
+
+01/15/2021 17:56:21	13 epoch: 	 start training....
+
+01/15/2021 17:59:41	13 epoch: 	 Calculated train loss: 0.047159
+
+01/15/2021 17:59:41	13 epoch: 	 start validation....
+
+01/15/2021 17:59:46	13 epoch: 	 start searching thresholds....
+
+01/15/2021 17:59:47	13 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 17:59:47	13 epoch: 	 Best area threshold: 500
+
+01/15/2021 17:59:47	13 epoch: 	 Calculated score: 0.96596
+
+01/15/2021 17:59:47	Removed checkpoint is experiments/seresnext50/model_checkpoints/seresnext50_epoch12.pth
+
+01/15/2021 17:59:47	EARLY STOPPING

@@ -1,0 +1,230 @@
+
+01/15/2021 15:24:13	0 epoch: 	 start training....
+
+01/15/2021 15:26:52	0 epoch: 	 Calculated train loss: 0.5222
+
+01/15/2021 15:26:52	0 epoch: 	 start validation....
+
+01/15/2021 15:26:57	0 epoch: 	 start searching thresholds....
+
+01/15/2021 15:26:57	0 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 15:26:57	0 epoch: 	 Best area threshold: 500
+
+01/15/2021 15:26:57	0 epoch: 	 Calculated score: 0.9256
+
+01/15/2021 15:26:58	best model: 0 epoch - 0.9256
+
+01/15/2021 15:26:58	1 epoch: 	 start training....
+
+01/15/2021 15:29:36	1 epoch: 	 Calculated train loss: 0.13353
+
+01/15/2021 15:29:36	1 epoch: 	 start validation....
+
+01/15/2021 15:29:41	1 epoch: 	 start searching thresholds....
+
+01/15/2021 15:29:41	1 epoch: 	 Best score threshold: 0.3
+
+01/15/2021 15:29:41	1 epoch: 	 Best area threshold: 500
+
+01/15/2021 15:29:41	1 epoch: 	 Calculated score: 0.95437
+
+01/15/2021 15:29:42	best model: 1 epoch - 0.95437
+
+01/15/2021 15:29:42	2 epoch: 	 start training....
+
+01/15/2021 15:32:19	2 epoch: 	 Calculated train loss: 0.10972
+
+01/15/2021 15:32:19	2 epoch: 	 start validation....
+
+01/15/2021 15:32:24	2 epoch: 	 start searching thresholds....
+
+01/15/2021 15:32:25	2 epoch: 	 Best score threshold: 0.2
+
+01/15/2021 15:32:25	2 epoch: 	 Best area threshold: 500
+
+01/15/2021 15:32:25	2 epoch: 	 Calculated score: 0.95753
+
+01/15/2021 15:32:25	best model: 2 epoch - 0.95753
+
+01/15/2021 15:32:25	3 epoch: 	 start training....
+
+01/15/2021 15:35:00	3 epoch: 	 Calculated train loss: 0.098281
+
+01/15/2021 15:35:00	3 epoch: 	 start validation....
+
+01/15/2021 15:35:05	3 epoch: 	 start searching thresholds....
+
+01/15/2021 15:35:06	3 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 15:35:06	3 epoch: 	 Best area threshold: 500
+
+01/15/2021 15:35:06	3 epoch: 	 Calculated score: 0.95886
+
+01/15/2021 15:35:06	best model: 3 epoch - 0.95886
+
+01/15/2021 15:35:06	4 epoch: 	 start training....
+
+01/15/2021 15:37:42	4 epoch: 	 Calculated train loss: 0.090834
+
+01/15/2021 15:37:42	4 epoch: 	 start validation....
+
+01/15/2021 15:37:47	4 epoch: 	 start searching thresholds....
+
+01/15/2021 15:37:48	4 epoch: 	 Best score threshold: 0.4
+
+01/15/2021 15:37:48	4 epoch: 	 Best area threshold: 500
+
+01/15/2021 15:37:48	4 epoch: 	 Calculated score: 0.96259
+
+01/15/2021 15:37:48	best model: 4 epoch - 0.96259
+
+01/15/2021 15:37:48	5 epoch: 	 start training....
+
+01/15/2021 15:40:23	5 epoch: 	 Calculated train loss: 0.081149
+
+01/15/2021 15:40:23	5 epoch: 	 start validation....
+
+01/15/2021 15:40:28	5 epoch: 	 start searching thresholds....
+
+01/15/2021 15:40:29	5 epoch: 	 Best score threshold: 0.4
+
+01/15/2021 15:40:29	5 epoch: 	 Best area threshold: 500
+
+01/15/2021 15:40:29	5 epoch: 	 Calculated score: 0.96496
+
+01/15/2021 15:40:29	Removed checkpoint is experiments/densenet121/model_checkpoints/densenet121_epoch0.pth
+
+01/15/2021 15:40:29	best model: 5 epoch - 0.96496
+
+01/15/2021 15:40:29	6 epoch: 	 start training....
+
+01/15/2021 15:43:03	6 epoch: 	 Calculated train loss: 0.074459
+
+01/15/2021 15:43:03	6 epoch: 	 start validation....
+
+01/15/2021 15:43:08	6 epoch: 	 start searching thresholds....
+
+01/15/2021 15:43:09	6 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 15:43:09	6 epoch: 	 Best area threshold: 500
+
+01/15/2021 15:43:09	6 epoch: 	 Calculated score: 0.96559
+
+01/15/2021 15:43:09	Removed checkpoint is experiments/densenet121/model_checkpoints/densenet121_epoch1.pth
+
+01/15/2021 15:43:10	best model: 6 epoch - 0.96559
+
+01/15/2021 15:43:10	7 epoch: 	 start training....
+
+01/15/2021 15:45:44	7 epoch: 	 Calculated train loss: 0.080409
+
+01/15/2021 15:45:44	7 epoch: 	 start validation....
+
+01/15/2021 15:45:49	7 epoch: 	 start searching thresholds....
+
+01/15/2021 15:45:50	7 epoch: 	 Best score threshold: 0.2
+
+01/15/2021 15:45:50	7 epoch: 	 Best area threshold: 500
+
+01/15/2021 15:45:50	7 epoch: 	 Calculated score: 0.96479
+
+01/15/2021 15:45:50	Removed checkpoint is experiments/densenet121/model_checkpoints/densenet121_epoch2.pth
+
+01/15/2021 15:45:50	8 epoch: 	 start training....
+
+01/15/2021 15:48:24	8 epoch: 	 Calculated train loss: 0.076968
+
+01/15/2021 15:48:24	8 epoch: 	 start validation....
+
+01/15/2021 15:48:29	8 epoch: 	 start searching thresholds....
+
+01/15/2021 15:48:30	8 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 15:48:30	8 epoch: 	 Best area threshold: 500
+
+01/15/2021 15:48:30	8 epoch: 	 Calculated score: 0.96388
+
+01/15/2021 15:48:30	Removed checkpoint is experiments/densenet121/model_checkpoints/densenet121_epoch3.pth
+
+01/15/2021 15:48:30	9 epoch: 	 start training....
+
+01/15/2021 15:51:04	9 epoch: 	 Calculated train loss: 0.073599
+
+01/15/2021 15:51:04	9 epoch: 	 start validation....
+
+01/15/2021 15:51:09	9 epoch: 	 start searching thresholds....
+
+01/15/2021 15:51:10	9 epoch: 	 Best score threshold: 0.4
+
+01/15/2021 15:51:10	9 epoch: 	 Best area threshold: 500
+
+01/15/2021 15:51:10	9 epoch: 	 Calculated score: 0.96414
+
+01/15/2021 15:51:10	Removed checkpoint is experiments/densenet121/model_checkpoints/densenet121_epoch4.pth
+
+01/15/2021 15:51:10	10 epoch: 	 start training....
+
+01/15/2021 15:53:43	10 epoch: 	 Calculated train loss: 0.068792
+
+01/15/2021 15:53:43	10 epoch: 	 start validation....
+
+01/15/2021 15:53:49	10 epoch: 	 start searching thresholds....
+
+01/15/2021 15:53:49	10 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 15:53:49	10 epoch: 	 Best area threshold: 500
+
+01/15/2021 15:53:49	10 epoch: 	 Calculated score: 0.96558
+
+01/15/2021 15:53:49	Removed checkpoint is experiments/densenet121/model_checkpoints/densenet121_epoch8.pth
+
+01/15/2021 15:53:49	11 epoch: 	 start training....
+
+01/15/2021 15:56:24	11 epoch: 	 Calculated train loss: 0.063928
+
+01/15/2021 15:56:24	11 epoch: 	 start validation....
+
+01/15/2021 15:56:29	11 epoch: 	 start searching thresholds....
+
+01/15/2021 15:56:30	11 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 15:56:30	11 epoch: 	 Best area threshold: 500
+
+01/15/2021 15:56:30	11 epoch: 	 Calculated score: 0.96557
+
+01/15/2021 15:56:30	Removed checkpoint is experiments/densenet121/model_checkpoints/densenet121_epoch9.pth
+
+01/15/2021 15:56:30	12 epoch: 	 start training....
+
+01/15/2021 15:59:03	12 epoch: 	 Calculated train loss: 0.059734
+
+01/15/2021 15:59:03	12 epoch: 	 start validation....
+
+01/15/2021 15:59:08	12 epoch: 	 start searching thresholds....
+
+01/15/2021 15:59:09	12 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 15:59:09	12 epoch: 	 Best area threshold: 500
+
+01/15/2021 15:59:09	12 epoch: 	 Calculated score: 0.96477
+
+01/15/2021 15:59:09	Removed checkpoint is experiments/densenet121/model_checkpoints/densenet121_epoch12.pth
+
+01/15/2021 15:59:09	13 epoch: 	 start training....
+
+01/15/2021 16:01:45	13 epoch: 	 Calculated train loss: 0.058183
+
+01/15/2021 16:01:45	13 epoch: 	 start validation....
+
+01/15/2021 16:01:50	13 epoch: 	 start searching thresholds....
+
+01/15/2021 16:01:51	13 epoch: 	 Best score threshold: 0.5
+
+01/15/2021 16:01:51	13 epoch: 	 Best area threshold: 500
+
+01/15/2021 16:01:51	13 epoch: 	 Calculated score: 0.96553
+
+01/15/2021 16:01:51	Removed checkpoint is experiments/densenet121/model_checkpoints/densenet121_epoch7.pth
+
+01/15/2021 16:01:51	EARLY STOPPING
