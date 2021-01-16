@@ -9,13 +9,15 @@ This repo is build on top of [https://github.com/sneddy/pneumothorax-segmentatio
 
 `pip install -r requirements.txt`
 
+The python package: https://github.com/alimbekovKZ/lungs_segmentation
+
 ### Example inference
 
 Jupyter notebook with the example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_9MXcHg_iqTtycXrz4c8oLzPmryA_3EW?usp=sharing)
 
 ### WebApp
 
-Comming soon ...
+[https://lungssegmentation.herokuapp.com/](https://lungssegmentation.herokuapp.com/)
 
 ## Data Preparation
 
