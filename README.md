@@ -103,7 +103,7 @@ image, mask = inference('test/1.jpeg', 0.2)
 
 ![https://habrastorage.org/webt/ef/01/zo/ef01zo2g2qgsux8ses4keg4g8is.png](https://habrastorage.org/webt/ef/01/zo/ef01zo2g2qgsux8ses4keg4g8is.png)
 
-#### resnet34
+#### resnet18
 
 ![https://habrastorage.org/webt/fz/-n/nz/fz-nnzgezbc_zwgmat6ztc3yxf0.png](https://habrastorage.org/webt/fz/-n/nz/fz-nnzgezbc_zwgmat6ztc3yxf0.png)
 
