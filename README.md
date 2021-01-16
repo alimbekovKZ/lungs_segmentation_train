@@ -114,8 +114,4 @@ image, mask = inference('test/1.jpeg', 0.2)
 
 ### Authors
 
-![Renat Alimbekov](https://alimbekov.com)
-
-![Ivan Vassilenko](https://www.linkedin.com/in/ivannvassilenko/)
-
-![Abylaikhan Turlassov](https://www.linkedin.com/in/abylaikhan-turlassov-2727b2196/)
+Renat Alimbekov, Ivan Vassilenko, Abylaikhan Turlassov
