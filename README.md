@@ -17,7 +17,7 @@ Jupyter notebook with the example: [![Open In Colab](https://colab.research.goog
 
 ### WebApp
 
-[https://lungssegmentation.herokuapp.com/](https://lungssegmentation.herokuapp.com/)
+[lungs segmentation streamlit](https://alimbekovkz-lungs-segmentation-demo-app-r1t0f4.streamlit.app/)
 
 ## Data Preparation
 
